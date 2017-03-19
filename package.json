@@ -1,0 +1,31 @@
+{
+  "name": "fakinesis",
+  "version": "0.0.1",
+  "description": "A stub class for AWS Kinesis behaviour\"",
+  "main": "kinesis.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/uliporeggia/fakinesis.git"
+  },
+  "keywords": [
+    "AWS",
+    "Kinesis",
+    "stub"
+  ],
+  "author": "Uli Oreggia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uliporeggia/fakinesis/issues"
+  },
+  "homepage": "https://github.com/uliporeggia/fakinesis#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
